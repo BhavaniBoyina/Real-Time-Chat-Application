@@ -33,4 +33,7 @@ In summary, a real-time chat application connects people instantly, making commu
 
 OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a79ad7b1-6d33-4b51-9507-87c8d0a84420" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0776b10f-9695-4e4f-9ee8-94cd81101974" />
 
